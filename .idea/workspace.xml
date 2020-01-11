@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd3053fd-f0ad-4536-bde5-ad98cdb01740" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/02c48602da54bf384dbd0026b826ea94e1c6c9a9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05efc8b1657769a27696d478ded1e95f38737233" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/062fe46a69236bd9712637bb49d5231324549633" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/1733b2e0f4ca0e53c979bebcfd9fbf8c4f8e7997" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/35b8c13cf2eb2a194eada000eb310d65aed53b2a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/6477e89e9cc7c553305a2beda68b3a265f7f9871" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/f/6f36096628c82d54606bfb44fffa21d84413ed97" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/767c0e14b9977fb760133bc5732b8007d933ddc7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/77605cfff9f3f29013625a9d4e5544c80ce8ff70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/7953db079cb2d1f5338434716bfad7dee4a54d36" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/807fb29115ccf9a0622be86235690b1370332cf3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/81af6f3f79fd0a53f3d56ed7a02af039d890e278" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/897b22cb66cfb68a39a711bfa75716f897c5124d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/918ca359602392354123b7d3b63264baf7ea9dde" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/920a3f15f4deff08ced208f8aa178e6cd44287ab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/939f2f77e23c198493f6950e91885d95c0719b00" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/98a9145c5e3597b5d55844a41b29cccdeb4a489c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a168b64c9c723066edc6b476f75554efb4f51ef6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8d025aefe0b7d3696f14547ba1d7d09551eeed9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac93df6a07deaf699f41cfb263d7ae05520f4b97" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/5/b5eb53f0a39beae8715408fd8ecfc77eca5e9c77" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6df53cf3bda66ece765e83c082354b9d24336ed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc947d49d5bb700f59be17167083bce674e0b539" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/3/d38ca5f13d45f9bd68d62467755e892fb77099b3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/df3136d52a7a4e587efef46a82bc024eca503d38" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/taskmanager/configuration/PostgresqlDbSpecification.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/taskmanager/configuration/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/taskmanager/controller/BoardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/taskmanager/controller/CartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/taskmanager/controller/CartRecordController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/taskmanager/dto/BoardDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/taskmanager/dto/CartDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/taskmanager/dto/CartRecordChangeCartDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/taskmanager/dto/CartRecordDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/taskmanager/dto/CartRecordQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/taskmanager/dto/mapper/BoardCustomMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/taskmanager/dto/mapper/CartCustomMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/taskmanager/dto/mapper/CartRecordCustomMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/taskmanager/entity/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/taskmanager/entity/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/taskmanager/entity/CartRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/taskmanager/repository/BoardRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/taskmanager/repository/CartRecordRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/taskmanager/repository/CartRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/taskmanager/service/BoardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/taskmanager/service/CartRecordService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/taskmanager/service/CartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/taskmanager/service/impl/BoardServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/taskmanager/service/impl/CartRecordServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/com/taskmanager/service/impl/CartServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/build/classes/java/main/com/taskmanager/EntryPoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/build/resources/main/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/build/resources/main/db/migration/V20190110115254__create_table_board.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/build/resources/main/db/migration/V20190110121143__create_table_cart.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/build/resources/main/db/migration/V20190110123746__create_table_record.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/build/resources/main/db/migration/V20190127175211__add_order_field_to_record_table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/src/main/java/com/taskmanager/EntryPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/src/main/resources/db/migration/V20190110115254__create_table_board.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/src/main/resources/db/migration/V20190110121143__create_table_cart.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/src/main/resources/db/migration/V20190110123746__create_table_record.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/src/main/resources/db/migration/V20190127175211__add_order_field_to_record_table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/security-api/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/security/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Oleksii_Bratenkov\Documents\self-projects\task-manager\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WAnj6qv4mSaQbU26u4CHyPhmHQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/core/src/main/java/com/taskmanager/configuration" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Oleksii_Bratenkov\Documents\self-projects\task-manager\core\src\main\java\com\taskmanager\configuration" />
+      <recent name="C:\Users\Oleksii_Bratenkov\Documents\self-projects\task-manager\core\src\main\java\com\taskmanager\controller" />
+      <recent name="C:\Users\Oleksii_Bratenkov\Documents\self-projects\task-manager\core\src\main\java\com\taskmanager\service\impl" />
+      <recent name="C:\Users\Oleksii_Bratenkov\Documents\self-projects\task-manager\core\src\main\java\com\taskmanager\service" />
+      <recent name="C:\Users\Oleksii_Bratenkov\Documents\self-projects\task-manager\core\src\main\java\com\taskmanager\dto" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EntryPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.taskmanager.EntryPoint" />
+      <module name="task-manager.main.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.taskmanager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EntryPoint" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd3053fd-f0ad-4536-bde5-ad98cdb01740" name="Default Changelist" comment="" />
+      <created>1578601398895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578601398895</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Project_Structure" timestamp="1578738787212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1578738787212" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1578738402131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1578738402131" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1578739116799">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578739116799" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1578739116798">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578739116798" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1578739116797">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578739116797" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1578739116799">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578739116799" />
+    <state x="277" y="54" key="SettingsEditor" timestamp="1578739592092">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578739592092" />
+    <state x="209" y="24" key="new project wizard" timestamp="1578601701418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="24" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1578601701418" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1578737717450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578737717450" />
+  </component>
+</project>
